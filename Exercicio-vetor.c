@@ -21,7 +21,7 @@ int main() {
         contagem[i] = contador;
     }
 
-    // Imprimir a quantidade de vezes que cada número foi digitado
+    // Imprimir a quantidade      de vezes que cada número foi digitado
     for (int i = 0; i < 6; i++) {
         printf("%d ", contagem[i]);
     }
